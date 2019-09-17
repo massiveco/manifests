@@ -1,0 +1,2 @@
+# manifests
+Kustomize.io manifests
